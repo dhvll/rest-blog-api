@@ -1,0 +1,22 @@
+
+### Test login
+POST http://127.0.0.1:8000/dj-rest-auth/login/
+Content-Type: application/json
+
+{
+    "username": "dhaval",
+    "email": "dhaval@gmail.com",
+    "password": "123456"
+}
+
+### Test Registeration
+POST http://127.0.0.1:8000/dj-rest-auth/registration/
+Content-Type: application/json
+
+{
+    "username": "testuser11",
+    "email": "testuser11@test.com",
+    "password1": "dhaval123",
+    "password2": "dhaval123"
+
+}
