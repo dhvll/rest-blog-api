@@ -1,2 +1,2 @@
-# React-Blog
-Simple Blogging Application using React and Django.
+# Rest-Blog
+API of Simple Blogging Application using Django.
