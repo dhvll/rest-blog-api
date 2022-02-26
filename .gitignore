@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+/upload_post_image
+
 # Distribution / packaging
 .Python
 build/
