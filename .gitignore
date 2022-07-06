@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 /upload_post_image
+/static_root
+/media_root
 
 # Distribution / packaging
 .Python
